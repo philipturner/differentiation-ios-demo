@@ -2,7 +2,7 @@
 
 This is an example of Swift's automatic differentiation running on iOS. It is a modified version of the game from [ARHeadsetKit tutorial #8](https://github.com/philipturner/ARHeadsetKit#tutorial-series), where the user knocks out cubes with their hand. Automatic differentiation computes a cube's velocity from its equations of motion, then shows the velocity in text.
 
-Differentiation is disabled in the Swift 5.5 toolchain due to compiler instability, but can be activated by importing the [Differentiation](https://github.com/philipturner/Differentiation) package. The following code segment shows how differentiation is used to find the Y component of a cube's velocity:
+Differentiation is disabled in the Swift 5.5 toolchain due to compiler instability, but can be activated by importing the [Differentiation](https://github.com/philipturner/Differentiation) package. The following code segment shows how differentiation is used to find the vertical component of a cube's velocity:
 
 ```swift
 import Differentiation
