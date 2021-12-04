@@ -23,7 +23,7 @@ let messageText = "Velocity (Y): \(velocityText) m/s"
 ```
 _The complete implementation can be found in `Game/GameRendererExtensions.swift`._
 
-
+https://github.com/philipturner/differentiation-ios-demo/blob/main/differentiation-video.webm
 
 ## Rationale
 
