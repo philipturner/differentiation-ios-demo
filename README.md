@@ -7,6 +7,8 @@ The following code sample shows how differentiation is used to find the Y compon
 ```swift
 import Differentiation
 
+let cube = cubes[...]
+
 @differentiable(reverse)
 func getLocationY(t: Float) -> Float {
     let acceleration: SIMD3<Float> = [0, -9.8, 0]
@@ -24,4 +26,4 @@ Differentiation is disabled in Swift release toolchains due to compiler crashes 
 
 ## Rationale
 
-The purpose of this project is to make a case for the resurrection of Swift for TensorFlow. Python ML libraries cannot run on iOS devices, but real-time machine learning can make apps more intelligent. With stable autodiff and a new Metal GPU backend, more opportunities and flexible workflows could be unlocked for mobile app developers.
+The purpose of this demo is to make a case for the resurrection of Swift for TensorFlow. Python ML libraries cannot run on iOS devices, but real-time machine learning can make apps more intelligent. With stable autodiff and a new Metal GPU backend, more opportunities and flexible workflows could be unlocked for mobile app developers.
