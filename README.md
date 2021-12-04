@@ -29,7 +29,8 @@ The purpose of this demo is to make a case for the resurrection of Swift for Ten
 
 ## App in Action
 
-![Text showing that Y velocity is -17.7 meters per second in augmented reality](./differentiation-image.jpg)
-
 https://user-images.githubusercontent.com/71743241/144722618-e9dc7e1c-e6ef-44cb-8c4b-dc0160f9e8e4.mp4
 
+For those with a slow internet connection:
+
+![Text showing that Y velocity is -17.7 meters per second in augmented reality](./differentiation-image.jpg)
