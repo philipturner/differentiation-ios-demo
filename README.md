@@ -21,7 +21,7 @@ let dydt = gradient(at: cube.timeSinceCollision, of: getLocationY(t:))
 let velocityText = String(format: "%.1f", dydt)
 let messageText = "Velocity (Y): \(velocityText) m/s"
 ```
-_The complete implementation can be found in `Game/GameRendererExtensions.swift`._
+_The complete implementation is located in `Game/GameRendererExtensions.swift`._
 
 ## Rationale
 
