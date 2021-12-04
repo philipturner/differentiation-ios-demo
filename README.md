@@ -25,4 +25,4 @@ _The complete implementation can be found in `Game/GameRendererExtensions.swift`
 
 ## Rationale
 
-The purpose of this demo is to make a case for the resurrection of Swift for TensorFlow, which relies on autodiff. Python ML libraries cannot run on iOS devices, yet real-time machine learning makes apps more intelligent. With stable autodiff and a Metal GPU backend, new opportunities and flexible workflows could be unlocked for mobile app developers.
+The purpose of this demo is to make a case for the resurrection of Swift for TensorFlow, which relies on differentiation. Python ML libraries cannot run on iOS devices, yet real-time machine learning makes apps more intelligent. With stable automatic differentiation and a Metal GPU backend, new opportunities and flexible workflows could be unlocked for mobile app developers.
