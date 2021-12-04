@@ -33,4 +33,4 @@ https://user-images.githubusercontent.com/71743241/144722618-e9dc7e1c-e6ef-44cb-
 
 For those with a slow internet connection:
 
-![Text showing that Y velocity is -17.7 meters per second in augmented reality](./differentiation-image.jpg)
+![Text in augmented reality showing that Y velocity is -17.7 meters per second](./differentiation-image.jpg)
