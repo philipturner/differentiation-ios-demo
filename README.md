@@ -23,8 +23,9 @@ let messageText = "Velocity (Y): \(velocityText) m/s"
 ```
 _The complete implementation can be found in `Game/GameRendererExtensions.swift`._
 
+<p width="100%">
 https://user-images.githubusercontent.com/71743241/144722618-e9dc7e1c-e6ef-44cb-8c4b-dc0160f9e8e4.mp4
-
+</p>
 ## Rationale
 
 The purpose of this demo is to make a case for the resurrection of Swift for TensorFlow, which relies on differentiation. Python ML libraries cannot run on iOS devices, yet real-time machine learning makes apps more intelligent. With stable automatic differentiation and a Metal GPU backend, new opportunities and flexible workflows could be unlocked for mobile app developers.
