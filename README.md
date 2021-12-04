@@ -26,4 +26,4 @@ Differentiation is disabled in Swift release toolchains due to compiler crashes 
 
 ## Rationale
 
-The purpose of this demo is to make a case for the resurrection of Swift for TensorFlow. Python ML libraries cannot run on iOS devices, but real-time machine learning can make apps more intelligent. With stable autodiff and a new Metal GPU backend, more opportunities and flexible workflows could be unlocked for mobile app developers.
+The purpose of this demo is to make a case for the resurrection of Swift for TensorFlow. Python ML libraries cannot run on iOS devices, yet real-time machine learning makes apps more intelligent. With stable autodiff and a Metal GPU backend, new opportunities and flexible workflows could be unlocked for mobile app developers.
