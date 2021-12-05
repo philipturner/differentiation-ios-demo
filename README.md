@@ -34,3 +34,5 @@ https://user-images.githubusercontent.com/71743241/144722618-e9dc7e1c-e6ef-44cb-
 For those with a slow internet connection:
 
 ![Text in augmented reality showing that Y velocity is -17.7 meters per second](./differentiation-image.jpg)
+
+If you have any insights or suggestions about this project, please comment on the [Swift Forums post](https://forums.swift.org/t/swift-for-tensorflow-resurrection-differentiation-running-on-ios/53841).
